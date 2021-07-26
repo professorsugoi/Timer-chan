@@ -1,5 +1,5 @@
 # Timer-chan
-A clone of another timer app with some aesthetic changes. No frills.
+A clone of another timer app with some aesthetic changes. No frills.  
 Original app: http://neilblr.com/post/58757345346
 
 ========================
