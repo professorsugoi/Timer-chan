@@ -5,10 +5,10 @@ Original app: http://neilblr.com/post/58757345346
 ========================
 
 # HOW TO:
->open MENU
->select Program #
->click on the window of your program (make sure to have it open beforehand)
->done! timer-chan will now begin tracking your time spent working as long as you are focused on the program. Tab to another window, and she'll pause until you resume.
+1. open MENU
+2. select Program #
+3. click on the window of your program (make sure to have it open beforehand)
+4. done! timer-chan will now begin tracking your time spent working as long as you are focused on the program. Tab to another window, and she'll pause until you resume.
 
 You can select multiple programs, or change them at any time.
 
