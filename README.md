@@ -1,10 +1,17 @@
 # Timer-chan
 A clone of another timer app with some aesthetic changes. No frills.  
-Original app: http://neilblr.com/post/58757345346
+Original app: http://neilblr.com/post/58757345346  
+<!-- archive: https://web.archive.org/web/20190213201147/https://neilblr.com/post/58757345346) -->
 
 ========================
 
-# HOW TO:
+![active](active.png)  
+<sub>when focused on chosen window (GOOD)</sub>  
+  
+![idle](idle.png)  
+<sub>when focused on other windows (DISGUSTING)</sub> 
+
+### HOW TO:
 1. open MENU
 2. select Program #
 3. click on the window of your program (make sure to have it open beforehand)
