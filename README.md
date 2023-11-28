@@ -1,4 +1,4 @@
-![concept art](timerchan.png)
+![concept art](timerchanconcepts.png)
 
 # Timer-chan
 A clone of another timer app with some aesthetic changes. No frills.  
